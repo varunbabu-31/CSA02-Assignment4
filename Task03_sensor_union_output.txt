@@ -1,0 +1,6 @@
+sizeof(struct reading_all_fields) = 20 bytes
+sizeof union = 8, sizeof struct reading = 12
+Temp 31.5 C
+Humidity 68 %
+Status OK
+Misuse Experiment (stored 31.5f, read .percent): 1107034112 (0x41FC0000 IEEE-754 bits)

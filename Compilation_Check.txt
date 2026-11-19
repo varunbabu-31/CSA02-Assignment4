@@ -1,0 +1,9 @@
+All source files compiled cleanly with GCC 12.2.0 using -std=c11 -Wall -Wextra.
+
+Task01_patient_register.c: OK (0 warnings)
+Task02_parcel_todo.c: OK (0 warnings)
+Task03_sensor_union.c: OK (0 warnings)
+Task04_account_forensics.c: OK (0 warnings)
+Task05_storage_todo.c: OK (0 warnings)
+Task05_four_ways_dual.c: OK (0 warnings)
+Task06_canteen_system.c: OK (0 warnings)

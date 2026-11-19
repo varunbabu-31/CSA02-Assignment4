@@ -1,0 +1,9 @@
+--- Address Evidence (Pass-by-Value vs Caller) ---
+  [In main] Address of &list[0] = 0x7fbc69d5eac0
+  [Inside addInterestByValue] Address of copy &a = 0x7fbc69d5eaa8
+  Balance after pass-by-value = 5000.00 (Unchanged!)
+
+--- Repaired Execution (Pass-by-Pointer with ->) ---
+Account 101 -> Updated Balance = 5200.00
+Account 102 -> Updated Balance = 12480.00
+Account 103 -> Updated Balance = 832.00
